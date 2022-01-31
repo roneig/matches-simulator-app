@@ -8,5 +8,11 @@ App Android Nativo de Simulação de Partidas. Este repositório foi organizado 
 2. Componentes, Layouts e UI/UX Em Apps Android
     - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/roneig/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
 
+3. Java e Kotlin Juntos!? Construindo Apps Android
+    - [o	release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/roneig/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+
+4. Explorando o Firebase Para Apps Android Resilientes
+    - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/roneig/matches-simulator-app/tree/release/explorando-o-firebase-para-apps-android-resilientes)
+
 
 
